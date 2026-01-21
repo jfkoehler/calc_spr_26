@@ -6,7 +6,7 @@ project:
   description: An introductory calculus course focused on applications in computing, finance, economics, and business
   keywords: [calculus, applications of calculus, calculus and machine learning, calculus and artificial intelligence]
   authors: [Jacob F. Koehler]
-  github: https://github.com/jfkoehler/calc_26
+  github: https://github.com/jfkoehler/calc_spr_26
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 
   toc:
