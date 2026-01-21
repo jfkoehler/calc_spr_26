@@ -19,5 +19,5 @@ site:
   options:
   #   favicon: favicon.ico
      logo: LoGo.jpg
-  launch_buttons:
-     colab_url: "https://colab.research.google.com"
+     launch_buttons:
+        colab_url: "https://colab.research.google.com"
